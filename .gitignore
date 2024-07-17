@@ -1,0 +1,33 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Jupyter Notebook config
+.jupyter
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+env/
+venv/
+
+# Environment and Package Files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# System Files
+.DS_Store
+
+# Output Files
+*.csv
+*.h5
+*.hdf5
+*.sqlite
+*.log
+
+# IDE/Editor Specific Files
+.vscode/
+.idea/
